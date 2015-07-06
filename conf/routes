@@ -1,0 +1,1 @@
+GET   /file/*path         controllers.Application.serveFile(path: String)

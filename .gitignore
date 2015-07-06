@@ -2,6 +2,9 @@
 .classpath
 .project
 .settings/
+.README.md.html
+logs/
 target/
 project/project
 project/target
+/bin/
